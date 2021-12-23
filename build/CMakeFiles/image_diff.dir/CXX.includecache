@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../png/png.hpp
+string
+-
+rgb/image.hpp
+-
+
+../rgb/color.hpp
+iostream
+-
+
+../rgb/image.hpp
+cassert
+-
+rgb/color.hpp
+-
+
+../rgb/rgb.hpp
+rgb/color.hpp
+-
+rgb/image.hpp
+-
+rgb/script.hpp
+-
+png/png.hpp
+-
+
+../rgb/script.hpp
+fstream
+-
+rgb/image.hpp
+-
+
+<<<<<<< HEAD
+/home/user/Feup2021/Programação/Praticas/project/Pixel/programs/image_diff.cpp
+=======
+/home/username/2aulas/Prog/Projeto_1/progp1/programs/image_diff.cpp
+>>>>>>> 0fc86db0bfef5e44f1b4a138412bae0a34636314
+iostream
+-
+string
+-
+rgb/rgb.hpp
+-
+

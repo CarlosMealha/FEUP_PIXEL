@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+/usr/bin/c++   -Wall -g -fsanitize=address -fsanitize=undefined -fno-omit-frame-pointer -DROOT_PROJ_DIR='"/home/user/Feup2021/Programação/Praticas/project/Pixel/data"'   CMakeFiles/image_dump.dir/programs/image_dump.cpp.o  -o image_dump  librgb.a 
+=======
+/usr/bin/c++   -Wall -g -fsanitize=address -fsanitize=undefined -fno-omit-frame-pointer -DROOT_PROJ_DIR='"/home/username/2aulas/Prog/Projeto_1/progp1/data"'   CMakeFiles/image_dump.dir/programs/image_dump.cpp.o  -o image_dump  librgb.a 
+>>>>>>> 0fc86db0bfef5e44f1b4a138412bae0a34636314

@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+/usr/bin/c++   -Wall -g -fsanitize=address -fsanitize=undefined -fno-omit-frame-pointer -DROOT_PROJ_DIR='"/home/user/Feup2021/Programação/Praticas/project/Pixel/data"'   CMakeFiles/color_test.dir/test/color_test.cpp.o  -o color_test  librgb.a lib/libgtest.a lib/libgtest_main.a -lpthread lib/libgtest.a -lpthread 
+=======
+/usr/bin/c++   -Wall -g -fsanitize=address -fsanitize=undefined -fno-omit-frame-pointer -DROOT_PROJ_DIR='"/home/username/2aulas/Prog/Projeto_1/progp1/data"'   CMakeFiles/color_test.dir/test/color_test.cpp.o  -o color_test  librgb.a lib/libgtest.a lib/libgtest_main.a -lpthread lib/libgtest.a -lpthread 
+>>>>>>> 0fc86db0bfef5e44f1b4a138412bae0a34636314
